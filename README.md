@@ -4,7 +4,7 @@
   
   <p align="center">
     <a href="https://komarev.com/ghpvc/?username=shamim4010">
-      <img src="https://komarev.com/ghpvc/?username=shamim4010&label=Profile%20views&color=00FFFF&style=flat-square" alt="shamim4010's profile views" />
+      <img src="https://komarev.com/ghpvc/?username=shamim4010&label=Profile%20views&color=3852B4&style=flat-square" alt="shamim4010's profile views" />
     </a>
   </p>
   
@@ -32,11 +32,27 @@
   
   
   ## 🛠️ Languages & Tools
+  <p style="color: #aaa;">Modern frameworks & tools I work with daily</p>
+  <div style="display: inline-block; position: relative; overflow: hidden; border-radius: 12px;">
+    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 0; background: linear-gradient(135deg, #0ff0, #f0f0); opacity: 0.2;"></div>
+    <div style="position: relative; z-index: 1; backdrop-filter: blur(9px) saturate(200%); -webkit-backdrop-filter: blur(9px) saturate(200%); background-color: rgba(255, 255, 255, 0); border-radius: 12px; border: 1px solid rgba(209, 213, 219, 0.3); padding: 20px;">
+      <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,nextjs,mongodb,firebase&perline=9&theme=dark" alt="Tech Stack" />
+    </div>
+  </div>
+  <div style="margin-top: 15px;">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  </div>
   
-  > ## Frontend
-  <p align="center"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /></p>
+  ## Tools
   
-  > ## Tools
   <p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
   
   <p align="center">
