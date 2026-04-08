@@ -72,6 +72,43 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   </picture>
 
+## 💼 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+<a href="https://github.com/shamim4010/dream-x1">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=shamim4010&repo=dream-x1&theme=tokyonight&hide_border=true" />
+</a>
+</td>
+
+<td width="50%">
+<a href="https://github.com/shamim4010/portfolio-web-ph">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=shamim4010&repo=portfolio-web-ph&theme=tokyonight&hide_border=true" />
+</a>
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+<a href="https://github.com/shamim4010/SteadFast_JustPractice">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=shamim4010&repo=SteadFast_JustPractice&theme=tokyonight&hide_border=true" />
+</a>
+</td>
+
+<td width="50%">
+<a href="https://github.com/shamim4010/login-register-01">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=shamim4010&repo=login-register-01&theme=tokyonight&hide_border=true" />
+</a>
+</td>
+
+</tr>
+</table>
+
+
   ## 🔗 Connect with Me
   <p align="center"> <a href="https://linkedin.com/in/shamimcb" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=F45B26" alt="LinkedIn"/></a> <a href="mailto:shamim.fullstack.dev@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="I'm Md Shamim Miah's Email"/></a> <a href="coming soon" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a> <a href="https://wa.me/38701995501537" target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a></p>
 
