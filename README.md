@@ -1,37 +1,41 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=4000&pause=500&color=00FFFF&center=true&vCenter=true&width=850&height=100&lines=⌨️+Md+Shamim+Miah;Full-Stack+Developer+%7C+Problem+Solver;From+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;Building+the+Future+with+Code" alt="Typing Hero" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=36&duration=4000&pause=500&color=00FFFF&center=true&vCenter=true&width=850&height=100&lines=⌨️+Md+Shamim+Miah;Full-Stack+Developer+%7C+Problem+Solver;From+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;Building+the+Future+with+Code" alt="Typing Hero" />
 </div>
 
-<div align="center" style="position: relative; overflow: hidden; border-radius: 12px; margin: 20px auto; width: 90%;">
-  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 0; background-image: url('https://i.gifer.com/7VE.gif'); background-size: cover; background-position: center; opacity: 0.3;"></div>
-  <div style="position: relative; z-index: 1; backdrop-filter: blur(9px) saturate(200%); -webkit-backdrop-filter: blur(9px) saturate(200%); background-color: rgba(255, 255, 255, 0); border-radius: 12px; border: 1px solid rgba(209, 213, 219, 0.3); padding: 20px;">
+<!-- Glass Card: Badges -->
+<div align="center" style="position: relative; overflow: hidden; border-radius: 12px; margin: 20px auto; width: fit-content; max-width: 90%;">
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 0; background-image: url('https://i.gifer.com/7VE.gif'); background-size: cover; background-position: center; opacity: 0.25;"></div>
+  <div style="position: relative; z-index: 1; backdrop-filter: blur(9px) saturate(200%); -webkit-backdrop-filter: blur(9px) saturate(200%); background-color: rgba(255, 255, 255, 0); border-radius: 12px; border: 1px solid rgba(209, 213, 219, 0.3); padding: 15px 25px;">
     <img src="https://img.shields.io/badge/Location-Bangladesh-00FFFF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117" />
     <img src="https://img.shields.io/badge/Code-Life-FF00FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
     <img src="https://komarev.com/ghpvc/?username=shamim4010&label=✨+VISITORS&color=0ff&style=for-the-badge&labelColor=0D1117" />
   </div>
 </div>
 
+<!-- Glass Card: About Me -->
 <div align="center" style="position: relative; overflow: hidden; border-radius: 12px; margin: 20px auto; width: 90%;">
-  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 0; background-image: url('https://i.gifer.com/fxVQ.gif'); background-size: cover; background-position: center; opacity: 0.25;"></div>
-  <div style="position: relative; z-index: 1; backdrop-filter: blur(9px) saturate(200%); -webkit-backdrop-filter: blur(9px) saturate(200%); background-color: rgba(255, 255, 255, 0); border-radius: 12px; border: 1px solid rgba(209, 213, 219, 0.3); padding: 20px;">
-    <h2 style="font-family: 'Orbitron', monospace; color: #0ff;">⚡ ABOUT ME</h2>
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 0; background-image: url('https://i.gifer.com/fxVQ.gif'); background-size: cover; background-position: center; opacity: 0.2;"></div>
+  <div style="position: relative; z-index: 1; backdrop-filter: blur(9px) saturate(200%); -webkit-backdrop-filter: blur(9px) saturate(200%); background-color: rgba(255, 255, 255, 0); border-radius: 12px; border: 1px solid rgba(209, 213, 219, 0.3); padding: 25px;">
+    <h2 style="font-family: 'Orbitron', monospace; color: #0ff; margin-bottom: 15px;">⚡ ABOUT ME</h2>
     <p style="font-size: 1.1rem; color: #e0e0e0;">Full-Stack Developer from Bangladesh 🇧🇩 with a passion for crafting <strong style="color: #0ff;">scalable, performant, and beautiful web apps</strong>. I love turning complex problems into simple, elegant solutions. Currently exploring Next.js, real-time systems, and cloud architecture.</p>
-    <p style="color: #ccc;">🔭 Open to collaboration | 💬 Ask me about React, Node, or MongoDB | ⚡ Fun fact: I <code>git commit</code> before coffee ☕</p>
+    <p style="color: #ccc; margin-top: 15px;">🔭 Open to collaboration | 💬 Ask me about React, Node, or MongoDB | ⚡ Fun fact: I <code>git commit</code> before coffee ☕</p>
   </div>
 </div>
 
+<!-- Divider -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=1&color=FF00FF&center=true&vCenter=true&width=900&height=20&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰" />
 
+<!-- Tech Stack -->
 <div align="center">
   <h2 style="font-family: 'Orbitron'; color: #00FFFF;">🧠 TECH STACK</h2>
   <p style="color: #aaa;">Modern frameworks & tools I work with daily</p>
-  <div style="display: inline-block; position: relative; overflow: hidden; border-radius: 12px;">
+  <div style="display: inline-block; position: relative; overflow: hidden; border-radius: 12px; margin-bottom: 15px;">
     <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 0; background: linear-gradient(135deg, #0ff0, #f0f0); opacity: 0.2;"></div>
     <div style="position: relative; z-index: 1; backdrop-filter: blur(9px) saturate(200%); -webkit-backdrop-filter: blur(9px) saturate(200%); background-color: rgba(255, 255, 255, 0); border-radius: 12px; border: 1px solid rgba(209, 213, 219, 0.3); padding: 20px;">
       <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,nextjs,mongodb,firebase&perline=9&theme=dark" alt="Tech Stack" />
     </div>
   </div>
-  <div style="margin-top: 15px;">
+  <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -44,42 +48,49 @@
   </div>
 </div>
 
+<!-- Current Focus Glass Card -->
 <div align="center" style="position: relative; overflow: hidden; border-radius: 12px; margin: 30px auto; width: 85%;">
-  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 0; background: linear-gradient(135deg, #0ff, #f0f); opacity: 0.15;"></div>
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 0; background: linear-gradient(135deg, #0ff, #f0f); opacity: 0.12;"></div>
   <div style="position: relative; z-index: 1; backdrop-filter: blur(9px) saturate(200%); -webkit-backdrop-filter: blur(9px) saturate(200%); background-color: rgba(255, 255, 255, 0); border-radius: 12px; border: 1px solid rgba(209, 213, 219, 0.3); padding: 15px;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=300&color=FFCC00&center=true&vCenter=true&width=700&lines=🔭+Current+focus:+Full-Stack+Performance;🌱+Learning:+TypeScript+%26+GraphQL;🤝+Open+to+collaborate+on+Open+Source" alt="Focus Animation" />
   </div>
 </div>
 
+<!-- GitHub Metrics -->
 <div align="center">
   <h2 style="font-family: 'Orbitron'; color: #FF00FF;">📊 GITHUB METRICS</h2>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <div style="flex: 1; min-width: 250px; position: relative; overflow: hidden; border-radius: 12px;">
-      <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 0; background-image: url('https://i.gifer.com/3zEf.gif'); background-size: cover; opacity: 0.2;"></div>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 20px;">
+    <!-- Stats Card -->
+    <div style="flex: 1; min-width: 280px; position: relative; overflow: hidden; border-radius: 12px;">
+      <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 0; background-image: url('https://i.gifer.com/3zEf.gif'); background-size: cover; opacity: 0.15;"></div>
       <div style="position: relative; z-index: 1; backdrop-filter: blur(9px) saturate(200%); -webkit-backdrop-filter: blur(9px) saturate(200%); background-color: rgba(255, 255, 255, 0); border-radius: 12px; border: 1px solid rgba(209, 213, 219, 0.3); padding: 15px;">
         <img src="https://github-readme-stats-ten-rho-89.vercel.app/api?username=shamim4010&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=CCCCCC" width="100%" alt="GitHub Stats" />
       </div>
     </div>
-    <div style="flex: 1; min-width: 250px; position: relative; overflow: hidden; border-radius: 12px;">
-      <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 0; background-image: url('https://i.gifer.com/7VE.gif'); background-size: cover; opacity: 0.2;"></div>
+    <!-- Top Languages Card -->
+    <div style="flex: 1; min-width: 280px; position: relative; overflow: hidden; border-radius: 12px;">
+      <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 0; background-image: url('https://i.gifer.com/7VE.gif'); background-size: cover; opacity: 0.15;"></div>
       <div style="position: relative; z-index: 1; backdrop-filter: blur(9px) saturate(200%); -webkit-backdrop-filter: blur(9px) saturate(200%); background-color: rgba(255, 255, 255, 0); border-radius: 12px; border: 1px solid rgba(209, 213, 219, 0.3); padding: 15px;">
         <img src="https://github-readme-stats-ten-rho-89.vercel.app/api/top-langs/?username=shamim4010&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=CCCCCC" width="100%" alt="Top Languages" />
       </div>
     </div>
   </div>
-  <div style="margin-top: 20px; position: relative; overflow: hidden; border-radius: 12px;">
-    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 0; background: radial-gradient(circle, #0ff, #f0f); opacity: 0.15;"></div>
+  <!-- Streak Stats Card -->
+  <div style="position: relative; overflow: hidden; border-radius: 12px; width: 100%; max-width: 800px; margin: 0 auto;">
+    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 0; background: radial-gradient(circle, #0ff, #f0f); opacity: 0.12;"></div>
     <div style="position: relative; z-index: 1; backdrop-filter: blur(9px) saturate(200%); -webkit-backdrop-filter: blur(9px) saturate(200%); background-color: rgba(255, 255, 255, 0); border-radius: 12px; border: 1px solid rgba(209, 213, 219, 0.3); padding: 15px;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamim4010&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=FF00FF&fire=FF00FF&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=FF00FF&sideLabels=FF00FF" width="100%" alt="Streak Stats" />
     </div>
   </div>
 </div>
 
+<!-- Featured Projects -->
 <div align="center">
   <h2 style="font-family: 'Orbitron'; color: #0ff;">🚀 FEATURED PROJECTS</h2>
   <p style="color: #ccc;"><i>Active development – more coming soon</i></p>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <div style="width: 260px; position: relative; overflow: hidden; border-radius: 12px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; margin: 30px 0;">
+    <!-- Project 1 -->
+    <div style="width: 280px; position: relative; overflow: hidden; border-radius: 12px;">
       <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 0; background: linear-gradient(45deg, #0ff, #00aaff); opacity: 0.2;"></div>
       <div style="position: relative; z-index: 1; backdrop-filter: blur(9px) saturate(200%); -webkit-backdrop-filter: blur(9px) saturate(200%); background-color: rgba(255, 255, 255, 0); border-radius: 12px; border: 1px solid rgba(209, 213, 219, 0.3); padding: 20px;">
         <h3 style="color: #0ff;">✨ Nexus Dashboard</h3>
@@ -88,7 +99,8 @@
         <p style="margin-top: 15px;"><code>🚧 Under construction</code></p>
       </div>
     </div>
-    <div style="width: 260px; position: relative; overflow: hidden; border-radius: 12px;">
+    <!-- Project 2 -->
+    <div style="width: 280px; position: relative; overflow: hidden; border-radius: 12px;">
       <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 0; background: linear-gradient(45deg, #f0f, #ff44cc); opacity: 0.2;"></div>
       <div style="position: relative; z-index: 1; backdrop-filter: blur(9px) saturate(200%); -webkit-backdrop-filter: blur(9px) saturate(200%); background-color: rgba(255, 255, 255, 0); border-radius: 12px; border: 1px solid rgba(209, 213, 219, 0.3); padding: 20px;">
         <h3 style="color: #f0f;">🛒 E‑commerce API</h3>
@@ -97,7 +109,8 @@
         <p style="margin-top: 15px;"><code>🔜 Coming soon</code></p>
       </div>
     </div>
-    <div style="width: 260px; position: relative; overflow: hidden; border-radius: 12px;">
+    <!-- Project 3 -->
+    <div style="width: 280px; position: relative; overflow: hidden; border-radius: 12px;">
       <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 0; background: linear-gradient(45deg, #0ff, #00ffaa); opacity: 0.2;"></div>
       <div style="position: relative; z-index: 1; backdrop-filter: blur(9px) saturate(200%); -webkit-backdrop-filter: blur(9px) saturate(200%); background-color: rgba(255, 255, 255, 0); border-radius: 12px; border: 1px solid rgba(209, 213, 219, 0.3); padding: 20px;">
         <h3 style="color: #0ff;">💬 ChatVerse</h3>
@@ -110,22 +123,24 @@
   <p style="color: #0ff;">✨ <strong>Project coming soon</strong> – more exciting projects on the way ✨</p>
 </div>
 
+<!-- Contribution Snake -->
 <div align="center">
   <h2 style="font-family: 'Orbitron'; color: #FF00FF;">🐍 CONTRIBUTION SNAKE</h2>
-  <div style="position: relative; overflow: hidden; border-radius: 12px; display: inline-block;">
-    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 0; background-image: url('https://i.gifer.com/4H0R.gif'); background-size: cover; opacity: 0.15;"></div>
+  <div style="position: relative; overflow: hidden; border-radius: 12px; display: inline-block; width: 90%;">
+    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 0; background-image: url('https://i.gifer.com/4H0R.gif'); background-size: cover; opacity: 0.12;"></div>
     <div style="position: relative; z-index: 1; backdrop-filter: blur(9px) saturate(200%); -webkit-backdrop-filter: blur(9px) saturate(200%); background-color: rgba(255, 255, 255, 0); border-radius: 12px; border: 1px solid rgba(209, 213, 219, 0.3); padding: 10px;">
-      <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="90%" />
+      <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
     </div>
   </div>
-  <p><i>Snake eating your contributions – keep coding!</i></p>
+  <p style="margin-top: 10px;"><i>Snake eating your contributions – keep coding!</i></p>
 </div>
 
+<!-- Social Links -->
 <div align="center">
   <h2 style="font-family: 'Orbitron'; color: #0ff;">🌐 QUANTUM CHANNEL</h2>
   <div style="position: relative; overflow: hidden; border-radius: 12px; display: inline-block; margin: 10px auto;">
     <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 0; background: linear-gradient(135deg, #0ff, #f0f); opacity: 0.15;"></div>
-    <div style="position: relative; z-index: 1; backdrop-filter: blur(9px) saturate(200%); -webkit-backdrop-filter: blur(9px) saturate(200%); background-color: rgba(255, 255, 255, 0); border-radius: 12px; border: 1px solid rgba(209, 213, 219, 0.3); padding: 15px 30px;">
+    <div style="position: relative; z-index: 1; backdrop-filter: blur(9px) saturate(200%); -webkit-backdrop-filter: blur(9px) saturate(200%); background-color: rgba(255, 255, 255, 0); border-radius: 12px; border: 1px solid rgba(209, 213, 219, 0.3); padding: 15px 25px;">
       <a href="https://linkedin.com/in/shamimcb" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-shamimcb-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
       <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-FF5722?style=for-the-badge&logo=about.me&logoColor=white&labelColor=0D1117" />
       <img src="https://img.shields.io/badge/Email-shamim.fullstack.dev@gmail.com-00BBFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1e17" />
@@ -134,15 +149,17 @@
   <p style="color: #ccc;">💼 Open to work & collaborations | 📍 Dhaka, Bangladesh</p>
 </div>
 
+<!-- Developer Quote -->
 <div align="center">
-  <div style="position: relative; overflow: hidden; border-radius: 12px; margin: 30px auto; width: 80%;">
-    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 0; background: radial-gradient(circle, #0ff, #f0f); opacity: 0.2;"></div>
+  <div style="position: relative; overflow: hidden; border-radius: 12px; margin: 30px auto; width: 85%;">
+    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 0; background: radial-gradient(circle, #0ff, #f0f); opacity: 0.15;"></div>
     <div style="position: relative; z-index: 1; backdrop-filter: blur(9px) saturate(200%); -webkit-backdrop-filter: blur(9px) saturate(200%); background-color: rgba(255, 255, 255, 0); border-radius: 12px; border: 1px solid rgba(209, 213, 219, 0.3); padding: 20px;">
       <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&duration=4000&pause=600&color=FFD700&center=true&vCenter=true&width=700&lines=“The+only+way+to+do+great+work+is+to+love+what+you+do.”;–+Steve+Jobs" alt="Quote" />
     </div>
   </div>
 </div>
 
+<!-- Footer -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=1&color=00FFCC&center=true&vCenter=true&width=900&height=20&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰" />
   <p style="font-family: 'Orbitron'; color: #888;">© 2025 Md Shamim Miah – Designed with 💜 and ⚡ Next.js vibe</p>
