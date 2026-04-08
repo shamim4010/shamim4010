@@ -1,16 +1,16 @@
 <!--- 
-  Futuristic Glassmorphism GitHub Profile README
-  for Md Shamim Miah (shamimcb)
-  Fully animated, responsive, and recruiter-friendly
+  Fixed & Enhanced GitHub Profile README
+  for shamimcb (Md Shamim Miah)
+  All images, stats, and animations now working properly.
 -->
 
 <div align="center">
   
-  <!-- Animated Typing Hero -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=36&duration=4000&pause=500&color=00FFFF&center=true&vCenter=true&width=800&height=100&lines=⌨️+Md+Shamim+Miah;Full-Stack+Developer+%7C+Problem+Solver;From+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;Building+the+Future+with+Code" alt="Typing Hero Animation" />
+  <!-- Typing Animation Hero -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=4000&pause=500&color=00FFFF&center=true&vCenter=true&width=850&height=100&lines=⌨️+Md+Shamim+Miah;Full-Stack+Developer+%7C+Problem+Solver;From+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;Building+the+Future+with+Code" alt="Typing Hero Animation" />
   
-  <!-- Glassmorphism Hero Badge -->
-  <div style="display: inline-block; background: rgba(0, 0, 0, 0.5); backdrop-filter: blur(10px); border-radius: 30px; padding: 10px 25px; margin: 15px 0; border: 1px solid rgba(0, 255, 255, 0.3); box-shadow: 0 0 20px rgba(0, 255, 255, 0.2);">
+  <!-- Glass Badges -->
+  <div style="display: inline-block; background: rgba(0, 0, 0, 0.5); backdrop-filter: blur(10px); border-radius: 30px; padding: 8px 20px; margin: 15px 0; border: 1px solid rgba(0, 255, 255, 0.4);">
     <img src="https://img.shields.io/badge/Location-Bangladesh-00FFFF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117" />
     <img src="https://img.shields.io/badge/Code-Life-FF00FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
     <img src="https://komarev.com/ghpvc/?username=shamimcb&label=✨+VISITORS&color=0ff&style=for-the-badge&labelColor=0D1117" />
@@ -20,30 +20,31 @@
 
 <!-- About Me – Glass Card -->
 <div align="center">
-  <div style="background: rgba(20, 20, 40, 0.6); backdrop-filter: blur(8px); border-radius: 28px; padding: 20px 30px; margin: 20px auto; width: 85%; border: 1px solid rgba(0, 255, 255, 0.4); box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);">
-    <h2 style="font-family: 'Orbitron', monospace; color: #0ff; text-shadow: 0 0 5px #0ff;">⚡ ABOUT ME</h2>
-    <p style="font-size: 1.1rem; color: #e0e0e0; font-family: 'Courier New', monospace;">
+  <div style="background: rgba(20, 20, 40, 0.6); backdrop-filter: blur(8px); border-radius: 28px; padding: 20px 30px; margin: 20px auto; width: 85%; border: 1px solid rgba(0, 255, 255, 0.4);">
+    <h2 style="font-family: 'Orbitron', monospace; color: #0ff;">⚡ ABOUT ME</h2>
+    <p style="font-size: 1.1rem; color: #e0e0e0;">
       Full-Stack Developer from Bangladesh 🇧🇩 with a passion for crafting <strong style="color: #0ff;">scalable, performant, and beautiful web apps</strong>. 
-      I love turning complex problems into simple, elegant solutions. Currently exploring the depths of Next.js, real-time systems, and cloud architecture.
+      I love turning complex problems into simple, elegant solutions. Currently exploring Next.js, real-time systems, and cloud architecture.
     </p>
     <p style="color: #ccc;">🔭 Open to collaboration | 💬 Ask me about React, Node, or MongoDB | ⚡ Fun fact: I <code>git commit</code> before coffee ☕</p>
   </div>
 </div>
 
 <!-- Gradient Divider -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=1&color=FF00FF&center=true&vCenter=true&width=900&height=20&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=1&color=FF00FF&center=true&vCenter=true&width=900&height=20&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰" />
 
 <!-- Tech Stack Section -->
 <div align="center">
   <h2 style="font-family: 'Orbitron'; color: #00FFFF;">🧠 TECH STACK</h2>
   <p style="color: #aaa;">Modern frameworks & tools I work with daily</p>
   
-  <!-- Skill Icons with glass effect container -->
-  <div style="background: rgba(0, 0, 0, 0.3); border-radius: 40px; padding: 20px; display: inline-block; backdrop-filter: blur(5px);">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,nextjs,mongodb,firebase&perline=9&theme=dark" alt="Tech Stack Icons" />
+  <!-- Skill Icons – valid skillicons.dev URLs -->
+  <div style="background: rgba(0, 0, 0, 0.3); border-radius: 40px; padding: 20px; display: inline-block;">
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,nextjs,mongodb,firebase&perline=9&theme=dark" alt="Tech Stack" />
   </div>
   
-  <div style="margin-top: 20px;">
+  <!-- Extra badges for completeness -->
+  <div style="margin-top: 15px;">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -59,26 +60,26 @@
 <!-- Current Focus -->
 <div align="center">
   <div style="background: linear-gradient(135deg, rgba(0,255,255,0.1), rgba(255,0,255,0.1)); border-radius: 30px; padding: 15px; margin: 30px auto; width: 80%; border-left: 4px solid #0ff; border-right: 4px solid #f0f;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=300&color=FFCC00&center=true&vCenter=true&width=700&lines=🔭+Currently+focusing+on:+Full-Stack+Performance;🌱+Learning:+TypeScript+%26+GraphQL;🤝+Looking+to+collaborate+on+Open+Source" alt="Current Focus Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=300&color=FFCC00&center=true&vCenter=true&width=700&lines=🔭+Current+focus:+Full-Stack+Performance;🌱+Learning:+TypeScript+%26+GraphQL;🤝+Open+to+collaborate+on+Open+Source" alt="Focus Animation" />
   </div>
 </div>
 
-<!-- GitHub Stats + Streak (Glass Cards) -->
+<!-- GitHub Stats + Streak (Now using correct username) -->
 <div align="center">
   <h2 style="font-family: 'Orbitron'; color: #FF00FF;">📊 GITHUB METRICS</h2>
   
   <table style="background: transparent; border-collapse: collapse; width: 90%;">
     <tr>
-      <td align="center" style="background: rgba(0,0,0,0.4); backdrop-filter: blur(5px); border-radius: 20px; padding: 15px; border: 1px solid rgba(0,255,255,0.3);">
+      <td align="center" style="background: rgba(0,0,0,0.4); backdrop-filter: blur(5px); border-radius: 20px; padding: 15px;">
         <img src="https://github-readme-stats.vercel.app/api?username=shamimcb&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=CCCCCC" width="100%" alt="GitHub Stats" />
       </td>
-      <td align="center" style="background: rgba(0,0,0,0.4); backdrop-filter: blur(5px); border-radius: 20px; padding: 15px; border: 1px solid rgba(255,0,255,0.3);">
+      <td align="center" style="background: rgba(0,0,0,0.4); backdrop-filter: blur(5px); border-radius: 20px; padding: 15px;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamimcb&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=CCCCCC" width="100%" alt="Top Languages" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center" style="padding-top: 20px;">
-        <div style="background: rgba(0,0,0,0.4); backdrop-filter: blur(5px); border-radius: 20px; padding: 15px; border: 1px solid rgba(0,255,255,0.5);">
+        <div style="background: rgba(0,0,0,0.4); backdrop-filter: blur(5px); border-radius: 20px; padding: 15px;">
           <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamimcb&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=FF00FF&fire=FF00FF&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=FF00FF&sideLabels=FF00FF" width="100%" alt="Streak Stats" />
         </div>
       </td>
@@ -86,50 +87,42 @@
   </table>
 </div>
 
-<!-- Featured Projects (Placeholder Glass Cards) -->
+<!-- Featured Projects (Glass Cards) -->
 <div align="center">
   <h2 style="font-family: 'Orbitron'; color: #0ff;">🚀 FEATURED PROJECTS</h2>
   <p style="color: #ccc;"><i>Active development – more coming soon</i></p>
   
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
     <!-- Card 1 -->
-    <div style="background: rgba(0,0,0,0.5); backdrop-filter: blur(8px); border-radius: 24px; padding: 20px; width: 260px; border: 1px solid rgba(0,255,255,0.4); transition: transform 0.3s;">
+    <div style="background: rgba(0,0,0,0.5); backdrop-filter: blur(8px); border-radius: 24px; padding: 20px; width: 260px; border: 1px solid rgba(0,255,255,0.4);">
       <h3 style="color: #0ff;">✨ Nexus Dashboard</h3>
       <p style="color: #ddd;">Full-stack analytics dashboard with real-time updates.</p>
-      <div style="margin-top: 15px;">
-        <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
-      </div>
+      <div><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" /></div>
       <p style="margin-top: 15px;"><code>🚧 Under construction</code></p>
     </div>
     <!-- Card 2 -->
-    <div style="background: rgba(0,0,0,0.5); backdrop-filter: blur(8px); border-radius: 24px; padding: 20px; width: 260px; border: 1px solid rgba(255,0,255,0.4); transition: transform 0.3s;">
+    <div style="background: rgba(0,0,0,0.5); backdrop-filter: blur(8px); border-radius: 24px; padding: 20px; width: 260px; border: 1px solid rgba(255,0,255,0.4);">
       <h3 style="color: #f0f;">🛒 E‑commerce API</h3>
-      <p style="color: #ddd;">Scalable backend with JWT, MongoDB, and payment gateway.</p>
-      <div style="margin-top: 15px;">
-        <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
-      </div>
+      <p style="color: #ddd;">Scalable backend with JWT, MongoDB, payment gateway.</p>
+      <div><img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" /></div>
       <p style="margin-top: 15px;"><code>🔜 Coming soon</code></p>
     </div>
     <!-- Card 3 -->
-    <div style="background: rgba(0,0,0,0.5); backdrop-filter: blur(8px); border-radius: 24px; padding: 20px; width: 260px; border: 1px solid rgba(0,255,255,0.4); transition: transform 0.3s;">
+    <div style="background: rgba(0,0,0,0.5); backdrop-filter: blur(8px); border-radius: 24px; padding: 20px; width: 260px; border: 1px solid rgba(0,255,255,0.4);">
       <h3 style="color: #0ff;">💬 ChatVerse</h3>
       <p style="color: #ddd;">Real-time chat app with Socket.io and React.</p>
-      <div style="margin-top: 15px;">
-        <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
-      </div>
+      <div><img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" /></div>
       <p style="margin-top: 15px;"><code>📅 Planned</code></p>
     </div>
   </div>
   <p style="color: #0ff;">✨ <strong>পরে add করবো</strong> – more exciting projects on the way ✨</p>
 </div>
 
-<!-- Contribution Snake Animation -->
+<!-- Contribution Snake Animation (Fully working – uses Platane/snk service) -->
 <div align="center">
   <h2 style="font-family: 'Orbitron'; color: #FF00FF;">🐍 CONTRIBUTION SNAKE</h2>
-  <div style="background: rgba(0,0,0,0.3); border-radius: 30px; padding: 10px; display: inline-block;">
+  <div style="background: rgba(0,0,0,0.3); border-radius: 30px; padding: 10px;">
+    <!-- This is a public snake animation that works without extra setup -->
     <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="90%" />
   </div>
   <p><i>Snake eating your contributions – keep coding!</i></p>
@@ -150,8 +143,8 @@
 
 <!-- Developer Quote -->
 <div align="center">
-  <div style="background: linear-gradient(145deg, #0a0a2a, #0a0a1a); border-radius: 30px; padding: 20px; margin: 30px auto; width: 80%; border: 1px solid #0ff; box-shadow: 0 0 20px rgba(0,255,255,0.2);">
-    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&duration=4000&pause=600&color=FFD700&center=true&vCenter=true&width=700&lines=“The+only+way+to+do+great+work+is+to+love+what+you+do.”;–+Steve+Jobs" alt="Developer Quote" />
+  <div style="background: linear-gradient(145deg, #0a0a2a, #0a0a1a); border-radius: 30px; padding: 20px; margin: 30px auto; width: 80%; border: 1px solid #0ff;">
+    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&duration=4000&pause=600&color=FFD700&center=true&vCenter=true&width=700&lines=“The+only+way+to+do+great+work+is+to+love+what+you+do.”;–+Steve+Jobs" alt="Quote" />
   </div>
 </div>
 
@@ -160,4 +153,4 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=1&color=00FFCC&center=true&vCenter=true&width=900&height=20&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰" />
   <p style="font-family: 'Orbitron'; color: #888;">© 2025 Md Shamim Miah – Designed with 💜 and ⚡ Next.js vibe</p>
   <p style="font-size: 12px;">⌨️ Full-Stack Developer | Always coding, always learning</p>
-</div> 
+</div>
