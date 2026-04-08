@@ -13,11 +13,16 @@
   ## 📌 About Me
   - Full-Stack Developer from Bangladesh 🇧🇩 with a passion for crafting scalable, performant, and beautiful web apps. I love turning complex problems into simple, elegant solutions. Currently exploring Next.js, real-time systems, and cloud architecture.
   - 🔭 Open to collaboration | 💬 Ask me about React, Node, or MongoDB | ⚡ Fun fact: I git commit before coffee ☕
-  
+
+  ## 🎧 Coding Vibes
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
+</p>
+
   
   ## 🧠 My Focus Areas
   - 🔭 Current focus: Full-Stack Performance 🤝Open to collaborate on Open Source
-  
   
   ## 📊 GitHub Stats & Trophies
   <p align="center">
