@@ -7,20 +7,47 @@
 <div align="center">
   
   <!-- Typing Animation Hero -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=4000&pause=500&color=00FFFF&center=true&vCenter=true&width=850&height=100&lines=⌨️+Md+Shamim+Miah;Full-Stack+Developer+%7C+Problem+Solver;From+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;Building+the+Future+with+Code" alt="Typing Hero Animation" />
-  
-  <!-- Glass Badges -->
-  <div style="display: inline-block; background: rgba(0, 0, 0, 0.5); backdrop-filter: blur(10px); border-radius: 30px; padding: 8px 20px; margin: 15px 0; border: 1px solid rgba(0, 255, 255, 0.4);">
-    <img src="https://img.shields.io/badge/Location-Bangladesh-00FFFF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/Code-Life-FF00FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
-    <img src="https://komarev.com/ghpvc/?username=shamimcb&label=✨+VISITORS&color=0ff&style=for-the-badge&labelColor=0D1117" />
-  </div>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=500&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Md+Shamim+Miah;Full-Stack+Developer;Building+web+experiences;Always+learning+new+tech" alt="Animated Typing SVG" />
+    <div style="background-color: #50e3c2; background: 
+        radial-gradient(at 47% 33%, hsl(162.00, 77%, 40%) 0, transparent 59%), radial-gradient(at 82% 65%, hsl(198.00, 100%, 50%) 0, transparent 55%); border-radius: 20px;">
+      <div style="width: 100%; height:80px
+        background: rgba(255, 255, 255, 0.05);
+        backdrop-filter: blur(14px);
+        -webkit-backdrop-filter: blur(14px);
+        border-radius: 20px;
+        border: 1px solid rgba(255, 255, 255, 0.3);
+        box-shadow: 
+          0 8px 32px rgba(0, 0, 0, 0.1),
+          inset 0 1px 0 rgba(255, 255, 255, 0.5),
+          inset 0 -1px 0 rgba(255, 255, 255, 0.1),
+          inset 0 0 0px 0px rgba(255, 255, 255, 0);
+        position: relative;
+        overflow: hidden;">
+        <img src="https://img.shields.io/badge/Location-Bangladesh-00FFFF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/Code-Life-FF00FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+        <img src="https://komarev.com/ghpvc/?username=shamimcb&label=✨+VISITORS&color=0ff&style=for-the-badge&labelColor=0D1117" />
+      </div>
+    </div>
   
 </div>
 
 <!-- About Me – Glass Card -->
-<div align="center">
-  <div style="background: rgba(20, 20, 40, 0.6); backdrop-filter: blur(8px); border-radius: 28px; padding: 20px 30px; margin: 20px auto; width: 85%; border: 1px solid rgba(0, 255, 255, 0.4);">
+<div align="center" style="background-color: #50e3c2; background: 
+        radial-gradient(at 47% 33%, hsl(162.00, 77%, 40%) 0, transparent 59%),
+        radial-gradient(at 82% 65%, hsl(198.00, 100%, 50%) 0, transparent 55%);
+        border-radius: 20px;">
+  <div style="background: rgba(255, 255, 255, 0.05);
+        backdrop-filter: blur(14px);
+        -webkit-backdrop-filter: blur(14px);
+        border-radius: 20px;
+        border: 1px solid rgba(255, 255, 255, 0.3);
+        box-shadow: 
+          0 8px 32px rgba(0, 0, 0, 0.1),
+          inset 0 1px 0 rgba(255, 255, 255, 0.5),
+          inset 0 -1px 0 rgba(255, 255, 255, 0.1),
+          inset 0 0 0px 0px rgba(255, 255, 255, 0);
+        position: relative;
+        overflow: hidden;;">
     <h2 style="font-family: 'Orbitron', monospace; color: #0ff;">⚡ ABOUT ME</h2>
     <p style="font-size: 1.1rem; color: #e0e0e0;">
       Full-Stack Developer from Bangladesh 🇧🇩 with a passion for crafting <strong style="color: #0ff;">scalable, performant, and beautiful web apps</strong>. 
@@ -71,16 +98,20 @@
   <table style="background: transparent; border-collapse: collapse; width: 90%;">
     <tr>
       <td align="center" style="background: rgba(0,0,0,0.4); backdrop-filter: blur(5px); border-radius: 20px; padding: 15px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=shamimcb&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=CCCCCC" width="100%" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=shamim4010&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=CCCCCC" width="100%" alt="GitHub Stats" />
       </td>
       <td align="center" style="background: rgba(0,0,0,0.4); backdrop-filter: blur(5px); border-radius: 20px; padding: 15px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamimcb&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=CCCCCC" width="100%" alt="Top Languages" />
+        <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamim4010&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=CCCCCC"
+        width="100%" alt="Top Languages" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center" style="padding-top: 20px;">
         <div style="background: rgba(0,0,0,0.4); backdrop-filter: blur(5px); border-radius: 20px; padding: 15px;">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamimcb&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=FF00FF&fire=FF00FF&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=FF00FF&sideLabels=FF00FF" width="100%" alt="Streak Stats" />
+          <img
+          src="https://github-readme-streak-stats.herokuapp.com/?user=shamim4010&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=FF00FF&fire=FF00FF&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=FF00FF&sideLabels=FF00FF"
+          width="100%" alt="Streak Stats" />
         </div>
       </td>
     </tr>
@@ -115,7 +146,7 @@
       <p style="margin-top: 15px;"><code>📅 Planned</code></p>
     </div>
   </div>
-  <p style="color: #0ff;">✨ <strong>পরে add করবো</strong> – more exciting projects on the way ✨</p>
+  <p style="color: #0ff;">✨ <strong>Project coming soon</strong> more exciting projects on the way ✨</p>
 </div>
 
 <!-- Contribution Snake Animation (Fully working – uses Platane/snk service) -->
@@ -136,7 +167,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-shamimcb-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
     </a>
     <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-FF5722?style=for-the-badge&logo=about.me&logoColor=white&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/Email-shamim@example.com-00BBFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/Email-shamim.fullstack.dev@gmail.com-00BBFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
   </div>
   <p style="color: #ccc;">💼 Open to work & collaborations | 📍 Dhaka, Bangladesh</p>
 </div>
