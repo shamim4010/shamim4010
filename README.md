@@ -1,145 +1,58 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=500&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Md+Shamim+Miah;Full-Stack+Developer;Building+web+experiences;Always+learning+new+tech" alt="Animated Typing SVG" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=I'm%20Md%20Shamim%20Miah&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stact%20Web%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
-<div align="center" style="position: relative; overflow: hidden; border-radius: 12px; margin: 20px auto; width: 90%;">
-  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 0; background-image: url('https://i.gifer.com/7VE.gif'); background-size: cover; background-position: center; opacity: 0.3;"></div>
-  <div style="position: relative; z-index: 1; backdrop-filter: blur(9px) saturate(200%); -webkit-backdrop-filter: blur(9px) saturate(200%); background-color: rgba(255, 255, 255, 0); border-radius: 12px; border: 1px solid rgba(209, 213, 219, 0.3); padding: 20px;">
-    <img src="https://img.shields.io/badge/Location-Bangladesh-00FFFF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117" />
-    <img src="https://img.shields.io/badge/Code-Life-FF00FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
-    <img src="https://komarev.com/ghpvc/?username=shamim4010&label=✨+VISITORS&color=0ff&style=for-the-badge&labelColor=0D1117" />
-  </div>
-</div>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=shamim4010">
+    <img src="https://komarev.com/ghpvc/?username=shamim4010&label=Profile%20views&color=00FFFF&style=flat-square" alt="shamim4010's profile views" />
+  </a>
+</p>
 
-<div align="center" style="position: relative; overflow: hidden; border-radius: 12px; margin: 20px auto; width: 90%;">
-  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 0; background-image: url('https://i.gifer.com/fxVQ.gif'); background-size: cover; background-position: center; opacity: 0.25;"></div>
-  <div style="position: relative; z-index: 1; backdrop-filter: blur(9px) saturate(200%); -webkit-backdrop-filter: blur(9px) saturate(200%); background-color: rgba(255, 255, 255, 0); border-radius: 12px; border: 1px solid rgba(209, 213, 219, 0.3); padding: 20px;">
-    <h2 style="font-family: 'Orbitron', monospace; color: #0ff;">⚡ ABOUT ME</h2>
-    <p style="font-size: 1.1rem; color: #e0e0e0;">Full-Stack Developer from Bangladesh 🇧🇩 with a passion for crafting <strong style="color: #0ff;">scalable, performant, and beautiful web apps</strong>. I love turning complex problems into simple, elegant solutions. Currently exploring Next.js, real-time systems, and cloud architecture.</p>
-    <p style="color: #ccc;">🔭 Open to collaboration | 💬 Ask me about React, Node, or MongoDB | ⚡ Fun fact: I <code>git commit</code> before coffee ☕</p>
-  </div>
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=1&color=FF00FF&center=true&vCenter=true&width=900&height=20&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰" />
+## 📌 About Me
+- Full-Stack Developer from Bangladesh 🇧🇩 with a passion for crafting scalable, performant, and beautiful web apps. I love turning complex problems into simple, elegant solutions. Currently exploring Next.js, real-time systems, and cloud architecture.
+- 🔭 Open to collaboration | 💬 Ask me about React, Node, or MongoDB | ⚡ Fun fact: I git commit before coffee ☕
 
-<div align="center">
-  <h2 style="font-family: 'Orbitron'; color: #00FFFF;">🧠 TECH STACK</h2>
-  <p style="color: #aaa;">Modern frameworks & tools I work with daily</p>
-  <div style="display: inline-block; position: relative; overflow: hidden; border-radius: 12px;">
-    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 0; background: linear-gradient(135deg, #0ff0, #f0f0); opacity: 0.2;"></div>
-    <div style="position: relative; z-index: 1; backdrop-filter: blur(9px) saturate(200%); -webkit-backdrop-filter: blur(9px) saturate(200%); background-color: rgba(255, 255, 255, 0); border-radius: 12px; border: 1px solid rgba(209, 213, 219, 0.3); padding: 20px;">
-      <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,nextjs,mongodb,firebase&perline=9&theme=dark" alt="Tech Stack" />
-    </div>
-  </div>
-  <div style="margin-top: 15px;">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  </div>
-</div>
 
-<div align="center" style="position: relative; overflow: hidden; border-radius: 12px; margin: 30px auto; width: 85%;">
-  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 0; background: linear-gradient(135deg, #0ff, #f0f); opacity: 0.15;"></div>
-  <div style="position: relative; z-index: 1; backdrop-filter: blur(9px) saturate(200%); -webkit-backdrop-filter: blur(9px) saturate(200%); background-color: rgba(255, 255, 255, 0); border-radius: 12px; border: 1px solid rgba(209, 213, 219, 0.3); padding: 15px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=300&color=FFCC00&center=true&vCenter=true&width=700&lines=🔭+Current+focus:+Full-Stack+Performance;🌱+Learning:+TypeScript+%26+GraphQL;🤝+Open+to+collaborate+on+Open+Source" alt="Focus Animation" />
-  </div>
-</div>
+## 🧠 My Focus Areas
+- 🔭 Current focus: Full-Stack Performance 🤝Open to collaborate on Open Source
 
-<div align="center">
-  <h2 style="font-family: 'Orbitron'; color: #FF00FF;">📊 GITHUB METRICS</h2>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <div style="flex: 1; min-width: 250px; position: relative; overflow: hidden; border-radius: 12px;">
-      <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 0; background-image: url('https://i.gifer.com/3zEf.gif'); background-size: cover; opacity: 0.2;"></div>
-      <div style="position: relative; z-index: 1; backdrop-filter: blur(9px) saturate(200%); -webkit-backdrop-filter: blur(9px) saturate(200%); background-color: rgba(255, 255, 255, 0); border-radius: 12px; border: 1px solid rgba(209, 213, 219, 0.3); padding: 15px;">
-        <img src="https://github-readme-stats-ten-rho-89.vercel.app/api?username=shamim4010&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=CCCCCC" width="100%" alt="GitHub Stats" />
-      </div>
-    </div>
-    <div style="flex: 1; min-width: 250px; position: relative; overflow: hidden; border-radius: 12px;">
-      <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 0; background-image: url('https://i.gifer.com/7VE.gif'); background-size: cover; opacity: 0.2;"></div>
-      <div style="position: relative; z-index: 1; backdrop-filter: blur(9px) saturate(200%); -webkit-backdrop-filter: blur(9px) saturate(200%); background-color: rgba(255, 255, 255, 0); border-radius: 12px; border: 1px solid rgba(209, 213, 219, 0.3); padding: 15px;">
-        <img src="https://github-readme-stats-ten-rho-89.vercel.app/api/top-langs/?username=shamim4010&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=CCCCCC" width="100%" alt="Top Languages" />
-      </div>
-    </div>
-  </div>
-  <div style="margin-top: 20px; position: relative; overflow: hidden; border-radius: 12px;">
-    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 0; background: radial-gradient(circle, #0ff, #f0f); opacity: 0.15;"></div>
-    <div style="position: relative; z-index: 1; backdrop-filter: blur(9px) saturate(200%); -webkit-backdrop-filter: blur(9px) saturate(200%); background-color: rgba(255, 255, 255, 0); border-radius: 12px; border: 1px solid rgba(209, 213, 219, 0.3); padding: 15px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamim4010&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=FF00FF&fire=FF00FF&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=FF00FF&sideLabels=FF00FF" width="100%" alt="Streak Stats" />
-    </div>
-  </div>
-</div>
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/shamim4010">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shamim4010&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="shamim4010's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=shamim4010&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="shamim4010's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=shamim4010&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="I'm Md Shamim Miah's GitHub Trophies" />
+</p>
+
+
+## 🛠️ Languages & Tools
+
+> ## Frontend
+<p align="center"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
+
+<p align="center">
+  <a href="https://github.com/shamim4010">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shamim4010&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+## 🔗 Connect with Me
+<p align="left"> <a href="https://linkedin.com/in/shamimcb" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="I'm Md Shamim Miah's LinkedIn"/></a> <a href="mailto:shamim.fullstack.dev@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="I'm Md Shamim Miah's Email"/></a> <a href="coming soon" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a> <a href="https://wa.me/38701995501537" target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 <div align="center">
-  <h2 style="font-family: 'Orbitron'; color: #0ff;">🚀 FEATURED PROJECTS</h2>
-  <p style="color: #ccc;"><i>Active development – more coming soon</i></p>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <div style="width: 260px; position: relative; overflow: hidden; border-radius: 12px;">
-      <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 0; background: linear-gradient(45deg, #0ff, #00aaff); opacity: 0.2;"></div>
-      <div style="position: relative; z-index: 1; backdrop-filter: blur(9px) saturate(200%); -webkit-backdrop-filter: blur(9px) saturate(200%); background-color: rgba(255, 255, 255, 0); border-radius: 12px; border: 1px solid rgba(209, 213, 219, 0.3); padding: 20px;">
-        <h3 style="color: #0ff;">✨ Nexus Dashboard</h3>
-        <p style="color: #ddd;">Full-stack analytics dashboard with real-time updates.</p>
-        <div><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" /></div>
-        <p style="margin-top: 15px;"><code>🚧 Under construction</code></p>
-      </div>
-    </div>
-    <div style="width: 260px; position: relative; overflow: hidden; border-radius: 12px;">
-      <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 0; background: linear-gradient(45deg, #f0f, #ff44cc); opacity: 0.2;"></div>
-      <div style="position: relative; z-index: 1; backdrop-filter: blur(9px) saturate(200%); -webkit-backdrop-filter: blur(9px) saturate(200%); background-color: rgba(255, 255, 255, 0); border-radius: 12px; border: 1px solid rgba(209, 213, 219, 0.3); padding: 20px;">
-        <h3 style="color: #f0f;">🛒 E‑commerce API</h3>
-        <p style="color: #ddd;">Scalable backend with JWT, MongoDB, payment gateway.</p>
-        <div><img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" /></div>
-        <p style="margin-top: 15px;"><code>🔜 Coming soon</code></p>
-      </div>
-    </div>
-    <div style="width: 260px; position: relative; overflow: hidden; border-radius: 12px;">
-      <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 0; background: linear-gradient(45deg, #0ff, #00ffaa); opacity: 0.2;"></div>
-      <div style="position: relative; z-index: 1; backdrop-filter: blur(9px) saturate(200%); -webkit-backdrop-filter: blur(9px) saturate(200%); background-color: rgba(255, 255, 255, 0); border-radius: 12px; border: 1px solid rgba(209, 213, 219, 0.3); padding: 20px;">
-        <h3 style="color: #0ff;">💬 ChatVerse</h3>
-        <p style="color: #ddd;">Real-time chat app with Socket.io and React.</p>
-        <div><img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" /></div>
-        <p style="margin-top: 15px;"><code>📅 Planned</code></p>
-      </div>
-    </div>
-  </div>
-  <p style="color: #0ff;">✨ <strong>Project coming soon</strong> – more exciting projects on the way ✨</p>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
 
-<div align="center">
-  <h2 style="font-family: 'Orbitron'; color: #FF00FF;">🐍 CONTRIBUTION SNAKE</h2>
-  <div style="position: relative; overflow: hidden; border-radius: 12px; display: inline-block;">
-    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 0; background-image: url('https://i.gifer.com/4H0R.gif'); background-size: cover; opacity: 0.15;"></div>
-    <div style="position: relative; z-index: 1; backdrop-filter: blur(9px) saturate(200%); -webkit-backdrop-filter: blur(9px) saturate(200%); background-color: rgba(255, 255, 255, 0); border-radius: 12px; border: 1px solid rgba(209, 213, 219, 0.3); padding: 10px;">
-      <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="90%" />
-    </div>
-  </div>
-  <p><i>Snake eating your contributions – keep coding!</i></p>
-</div>
-
-<div align="center">
-  <h2 style="font-family: 'Orbitron'; color: #0ff;">🌐 QUANTUM CHANNEL</h2>
-  <div style="position: relative; overflow: hidden; border-radius: 12px; display: inline-block; margin: 10px auto;">
-    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 0; background: linear-gradient(135deg, #0ff, #f0f); opacity: 0.15;"></div>
-    <div style="position: relative; z-index: 1; backdrop-filter: blur(9px) saturate(200%); -webkit-backdrop-filter: blur(9px) saturate(200%); background-color: rgba(255, 255, 255, 0); border-radius: 12px; border: 1px solid rgba(209, 213, 219, 0.3); padding: 15px 30px;">
-      <a href="https://linkedin.com/in/shamimcb" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-shamimcb-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
-      <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-FF5722?style=for-the-badge&logo=about.me&logoColor=white&labelColor=0D1117" />
-      <img src="https://img.shields.io/badge/Email-shamim.fullstack.dev@gmail.com-00BBFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1e17" />
-    </div>
-  </div>
-  <p style="color: #ccc;">💼 Open to work & collaborations | 📍 Dhaka, Bangladesh</p>
-</div>
-
-<div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=610&size=19&duration=3500&pause=500&color=F75C7E&center=true&vCenter=true&width=610&lines=The+only+way+to+do+great+work+is+to+love+what+you+do.;-+SHAMIM+DEV" alt="Animated Typing SVG" />
-</div>
-
-<div align="center">
-  <hr style="border: 0; height: 2px; background: linear-gradient(90deg, transparent, #ff00ff, #00ffff, #ff00ff, transparent); margin: 30px 0; border-radius: 5px;" />
-  <p style="font-family: 'Orbitron'; color: #888;">© 2025 Md Shamim Miah – Designed with 💜 and ⚡ Next.js vibe</p>
-  <p style="font-size: 12px;">⌨️ Full-Stack Developer | Always coding, always learning</p>
-</div>
