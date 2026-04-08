@@ -20,7 +20,7 @@
   </div>
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=1&color=00FFCC&center=true&vCenter=true&width=800&height=20&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰" alt="Divider" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=1&color=FF00FF&center=true&vCenter=true&width=900&height=20&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰" />
 
 <div align="center">
   <h2 style="font-family: 'Orbitron'; color: #00FFFF;">🧠 TECH STACK</h2>
