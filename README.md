@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=4000&pause=500&color=00FFFF&center=true&vCenter=true&width=850&height=100&lines=⌨️+Md+Shamim+Miah;Full-Stack+Developer+%7C+Problem+Solver;From+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;Building+the+Future+with+Code" alt="Typing Hero" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=500&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Md+Shamim+Miah;Full-Stack+Developer;Building+web+experiences;Always+learning+new+tech" alt="Animated Typing SVG" />
 </div>
 
 <div align="center" style="position: relative; overflow: hidden; border-radius: 12px; margin: 20px auto; width: 90%;">
