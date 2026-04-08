@@ -135,7 +135,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&duration=4000&pause=600&color=FFD700&center=true&vCenter=true&width=700&lines=“The+only+way+to+do+great+work+is+to+love+what+you+do.–+Steve+Jobs" alt="Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&duration=4000&pause=600&color=FFD700&center=true&vCenter=true&width=700&lines=The+only+way+to+do+great+work+is+to+love+what+you+do.–+Steve+Jobs" alt="Quote" />
 </div>
 
 <div align="center">
