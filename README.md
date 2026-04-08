@@ -20,7 +20,7 @@
   </div>
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=1&color=FF00FF&center=true&vCenter=true&width=900&height=20&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=1&color=00FFCC&center=true&vCenter=true&width=800&height=20&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰" alt="Divider" />
 
 <div align="center">
   <h2 style="font-family: 'Orbitron'; color: #00FFFF;">🧠 TECH STACK</h2>
@@ -138,13 +138,13 @@
   <div style="position: relative; overflow: hidden; border-radius: 12px; margin: 30px auto; width: 80%;">
     <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 0; background: radial-gradient(circle, #0ff, #f0f); opacity: 0.2;"></div>
     <div style="position: relative; z-index: 1; backdrop-filter: blur(9px) saturate(200%); -webkit-backdrop-filter: blur(9px) saturate(200%); background-color: rgba(255, 255, 255, 0); border-radius: 12px; border: 1px solid rgba(209, 213, 219, 0.3); padding: 20px;">
-      <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&duration=4000&pause=600&color=FFD700&center=true&vCenter=true&width=700&lines=“The+only+way+to+do+great+work+is+to+love+what+you+do.”;–+Steve+Jobs" alt="Quote" />
+      <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&duration=4000&pause=600&color=FFD700&center=true&vCenter=true&width=700&lines=“The+only+way+to+do+great+work+is+to+love+what+you+do.–+Steve+Jobs" alt="Quote" />
     </div>
   </div>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=1&color=00FFCC&center=true&vCenter=true&width=900&height=20&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=1&color=00FFCC&center=true&vCenter=true&width=800&height=20&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰" alt="Divider" />
   <p style="font-family: 'Orbitron'; color: #888;">© 2025 Md Shamim Miah – Designed with 💜 and ⚡ Next.js vibe</p>
   <p style="font-size: 12px;">⌨️ Full-Stack Developer | Always coding, always learning</p>
 </div>
