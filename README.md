@@ -135,11 +135,11 @@
 </div>
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3500&pause=500&color=F75C7E&center=true&vCenter=true&width=600&lines=The+only+way+to+do+great+work+is+to+love+what+you+do.;-+SHAMIM+DEV" alt="Animated Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=500&color=F75C7E&center=true&vCenter=true&width=600&lines=The+only+way+to+do+great+work+is+to+love+what+you+do.;-+SHAMIM+DEV" alt="Animated Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=1&color=00FFCC&center=true&vCenter=true&width=800&height=20&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰" alt="Divider" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=500&color=F75C7E&center=true&vCenter=true&width=600&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰" alt="Divider" />
   <p style="font-family: 'Orbitron'; color: #888;">© 2025 Md Shamim Miah – Designed with 💜 and ⚡ Next.js vibe</p>
   <p style="font-size: 12px;">⌨️ Full-Stack Developer | Always coding, always learning</p>
 </div>
