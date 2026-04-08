@@ -139,7 +139,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=500&color=F75C7E&center=true&vCenter=true&width=600&lines=▰▰▰▰+▰▰▰▰+▰▰▰▰+▰▰▰▰+▰▰▰▰+▰▰▰▰+▰▰▰▰+▰▰▰▰+▰▰▰▰+▰▰▰▰+▰▰▰▰;Shamim+Dev" alt="Animated Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=500&color=F75C7E&center=true&vCenter=true&width=600&lines=▰▰▰▰+▰▰▰▰+▰▰▰▰+▰▰▰▰+▰▰▰▰+▰▰▰▰;Shamim+Dev" alt="Animated Typing SVG" />
   <p style="font-family: 'Orbitron'; color: #888;">© 2025 Md Shamim Miah – Designed with 💜 and ⚡ Next.js vibe</p>
   <p style="font-size: 12px;">⌨️ Full-Stack Developer | Always coding, always learning</p>
 </div>
