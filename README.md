@@ -135,7 +135,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=500&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+The+only+way+to+do+great+work+is+to+love+what+you+do.;–+Steve+Jobs" alt="Animated Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=500&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Md+Shamim+Miah;Full-Stack+Developer;Building+web+experiences;Always+learning+new+tech" alt="Animated Typing SVG" />
 </div>
 
 <div align="center">
