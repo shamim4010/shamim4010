@@ -25,6 +25,7 @@
 <!-- Divider -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=1&color=FF00FF&center=true&vCenter=true&width=900&height=20&lines=▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰" />
 
+
 <!-- Tech Stack -->
 <div align="center">
   <h2 style="font-family: 'Orbitron'; color: #00FFFF;">🧠 TECH STACK</h2>
