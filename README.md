@@ -135,10 +135,7 @@
 </div>
 
 <div align="center">
-  <div style="background: linear-gradient(145deg, #0a0a2a, #0a0a1a); border-radius: 30px; padding: 20px; margin: 30px auto; width: 80%; border: 1px solid #0ff;">
-    <img
-    src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&duration=4000&pause=600&color=FFD700&center=true&vCenter=true&width=700&lines=“The+only+way+to+do+great+work+is+to+love+what+you+do.–+Steve+Jobs" alt="Quote" />
-  </div>
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&duration=4000&pause=600&color=FFD700&center=true&vCenter=true&width=700&lines=“The+only+way+to+do+great+work+is+to+love+what+you+do.–+Steve+Jobs" alt="Quote" />
 </div>
 
 <div align="center">
