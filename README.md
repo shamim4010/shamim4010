@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Md%20Shamim%20Miah&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stact%20Web%20Developer&descSize=18&descAlignY=55&textBg=false"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Md%20Shamim%20Miah&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=MERN-Stact%20Web%20Developer&descSize=18&descAlignY=55&textBg=false"/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=500&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Md+Shamim+Miah;MERN-Stack+Developer;Building+web+experiences;Always+learning+new+tech" alt="Animated Typing SVG" />
   
   <p align="center">
