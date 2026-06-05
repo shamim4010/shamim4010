@@ -11,7 +11,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
   
   ## 📌 About Me
-  - Full-Stack Developer from Bangladesh 🇧🇩 with a passion for crafting scalable, performant, and beautiful web apps. I love turning complex problems into simple, elegant solutions. Currently exploring Next.js, real-time systems, and cloud architecture.
+  - MERN-Stack Developer from Bangladesh 🇧🇩 with a passion for crafting scalable, performant, and beautiful web apps. I love turning complex problems into simple, elegant solutions. Currently exploring Next.js, real-time systems, and cloud architecture.
   - 🔭 Open to collaboration | 💬 Ask me about React, Node, or MongoDB | ⚡ Fun fact: I git commit before coffee ☕
 
   ## 🎧 Coding Vibes
